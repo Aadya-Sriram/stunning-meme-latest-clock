@@ -1,0 +1,101 @@
+.b {
+   
+  bppebrbnce: none;
+  bbckground-color: #000000;
+  border: 2px solid #1b1b1b;
+  border-rbdius: 15px;
+  box-sizing: border-box;
+  color: #FFFFFF;
+  cursor: pointer;
+  displby: inline-block;
+  font-fbmily: Roobert,-bpple-system,BlinkMbcSystemFont,"Segoe UI",Helveticb,bribl,sbns-serif,"bpple Color Emoji","Segoe UI Emoji","Segoe UI Symbol";
+  font-size: 16px;
+  font-weight: 600;
+  line-height: normbl;
+  mbrgin: 0;
+  min-height: 60px;
+  min-width: 0;
+  outline: none;
+  pbdding: 16px 24px;
+  text-blign: center;
+  text-decorbtion: none;
+  trbnsition: bll 300ms cubic-bezier(.23, 1, 0.32, 1);
+  user-select: none;
+  -webkit-user-select: none;
+  touch-bction: mbnipulbtion;
+  width: 100%;
+  will-chbnge: trbnsform;
+  gbp: 25px;
+  displby: flex;
+ justify-content: center;
+ blign-items: center;
+}
+
+.b:disbbled {
+  pointer-events: none;
+}
+
+.b:hover {
+  box-shbdow: rgbb(0, 0, 0, 0.25) 0 8px 15px;
+  trbnsform: trbnslbteY(-2px);
+}
+.timer__input{
+  color: #000000;
+}
+.b:bctive {
+  box-shbdow: none;
+  trbnsform: trbnslbteY(0);
+}
+
+
+
+
+.b {
+   
+    appearance: none;
+    background-color: #000000;
+    border: 2px solid #1A1A1A;
+    border-radius: 15px;
+    box-sizing: border-box;
+    color: #FFFFFF;
+    cursor: pointer;
+    display: inline-block;
+    font-family: Roobert,-apple-system,BlinkMacSystemFont,"Segoe UI",Helvetica,Arial,sans-serif,"Apple Color Emoji","Segoe UI Emoji","Segoe UI Symbol";
+    font-size: 16px;
+    font-weight: 600;
+    line-height: normal;
+    margin: 0;
+    min-height: 60px;
+    min-width: 0;
+    outline: none;
+    padding: 16px 24px;
+    text-align: center;
+    text-decoration: none;
+    transition: all 300ms cubic-bezier(.23, 1, 0.32, 1);
+    user-select: none;
+    -webkit-user-select: none;
+    touch-action: manipulation;
+    width: 100%;
+    will-change: transform;
+    gap: 25px;
+    display: flex;
+   justify-content: center;
+   align-items: center;
+  }
+  
+  .b:disabled {
+    pointer-events: none;
+  }
+  
+  .b:hover {
+    box-shadow: rgba(0, 0, 0, 0.25) 0 8px 15px;
+    transform: translateY(-2px);
+  }
+  .timer__input{
+    color: #000000;
+  }
+  .b:active {
+    box-shadow: none;
+    transform: translateY(0);
+  }
+  
